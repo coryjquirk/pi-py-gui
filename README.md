@@ -8,13 +8,19 @@ To execute this program, run the following command:
 
 
 ### credit
-created using [this guide] about [guizero](https://lawsie.github.io/guizero/)
-[my wallpaper](https://creativenative.com.au/products/rosemary-petyarre-bush-medicine-leaves-dreaming)
+created using [this guide](https://projects.raspberrypi.org/en/projects/getting-started-with-guis) about [guizero](https://lawsie.github.io/guizero/)
+<br>
+[desktop wallpaper](https://creativenative.com.au/products/rosemary-petyarre-bush-medicine-leaves-dreaming) Rosemary Petyarre "Bush Medicine Leaves Dreaming"
 
 ------------ | ---------------------------- | -------------
------------- | -------you've--read----------------------- | -------------
------------- | ---------to--the--end,-------------- | -------------
+<br>
+------------ | ---------you've--read----------------------- | -------------
+<br>
+------------ | ----------to--the--end,-------------- | -------------
+<br>
 ------------ | -----------now--your--turn------------ | -------------
------------- | --------to--try!------------- | -------------
+<br>
+------------ | ----------to--try!------------- | -------------
+<br>
 ------------ | ------------------------------ | -------------
 
