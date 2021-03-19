@@ -11,12 +11,4 @@ to execute the program, run
 
 ### credit
 created using [this guide](https://projects.raspberrypi.org/en/projects/getting-started-with-guis) about [guizero](https://lawsie.github.io/guizero/)  
-[desktop wallpaper](https://creativenative.com.au/products/rosemary-petyarre-bush-medicine-leaves-dreaming) Rosemary Petyarre "Bush Medicine Leaves Dreaming"
-
------------- | ---------------------------- | -------------  
------------- | ---------you've--read----------------------- | -------------  
------------- | ----------to--the--end,-------------- | -------------  
------------- | -----------now--your--turn------------ | -------------  
------------- | ----------to--try!------------- | -------------  
------------- | ------------------------------ | -------------  
-
+[my wallpaper](https://creativenative.com.au/products/rosemary-petyarre-bush-medicine-leaves-dreaming) Rosemary Petyarre "Bush Medicine Leaves Dreaming"
