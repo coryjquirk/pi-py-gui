@@ -2,7 +2,7 @@
 GUI coded with Python on the Raspberry Pi 4.
 
 ### usage
-first, install guizero with the command  
+first, install [guizero](https://github.com/lawsie/guizero) with the command  
 `pip3 install guizero`  
 to execute the program, run  
 `python3 pi-py-gui.py`  
